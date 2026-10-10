@@ -20,7 +20,7 @@
 | [SK6812 Addressable RGB LEDs](https://www.aliexpress.com/w/wholesale-sk6812-rgb-led.html) | Per-key customizable backlighting and status indicators | 1 | $3.20 | $3.20 | [AliExpress](https://www.aliexpress.com/w/wholesale-sk6812-rgb-led.html) |
 | [3D Printing Filament](https://www.aliexpress.com/w/wholesale-pla-filament-3d.html) | Material for printing the protective custom macropad case | 1 | $6.50 | $6.50 | [AliExpress](https://www.aliexpress.com/w/wholesale-pla-filament-3d.html) |
 | **Parts subtotal** | — | — | — | **$27.23** | — |
-| **Tax & shipping** | — | — | — | **$5.00** | — |
-| **Total** | — | — | — | **$32.23** | — |
+| **Tax & shipping** | — | — | — | **$2.00** | — |
+| **Total** | — | — | — | **$29.23** | — |
 
-**$2.23 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+$0.77 left of the tier's funding.
