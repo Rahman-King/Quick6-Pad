@@ -21,7 +21,7 @@
 | [USB-C Cable Connection Component](https://www.aliexpress.com/w/wholesale-type-c-usb-breakout-board.html) | — | 1 | $0.00 | $0.00 | [AliExpress](https://www.aliexpress.com/w/wholesale-type-c-usb-breakout-board.html) |
 | [3D Printing Filament](https://www.aliexpress.com/w/wholesale-pla-filament-3d.html) | — | 1 | $0.00 | $0.00 | [AliExpress](https://www.aliexpress.com/w/wholesale-pla-filament-3d.html) |
 | **Parts subtotal** | — | — | — | **$8.38** | — |
-| **Tax & shipping** | — | — | — | **$31.12** | — |
-| **Total** | — | — | — | **$39.50** | — |
+| **Tax & shipping** | — | — | — | **$5.00** | — |
+| **Total** | — | — | — | **$13.38** | — |
 
-**$9.50 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+$16.62 left of the tier's funding.
