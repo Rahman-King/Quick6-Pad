@@ -18,7 +18,6 @@
 | [Keycaps (Small set of 9)](https://www.aliexpress.com/w/wholesale-custom-keycaps.html) | Physical finger caps placed on top of switches | 1 | $4.20 | $4.20 | [AliExpress](https://www.aliexpress.com/w/wholesale-custom-keycaps.html) |
 | [Rotary Quadrature Encoder (EC11)](https://www.aliexpress.com/w/wholesale-encoder-ec11.html) | Controls volume, scrolling, or custom macro values | 1 | $1.45 | $1.45 | [AliExpress](https://www.aliexpress.com/w/wholesale-encoder-ec11.html) |
 | [SK6812 Addressable RGB LEDs](https://www.aliexpress.com/w/wholesale-sk6812-rgb-led.html) | Per-key customizable backlighting and status indicators | 1 | $3.20 | $3.20 | [AliExpress](https://www.aliexpress.com/w/wholesale-sk6812-rgb-led.html) |
-| [USB-C Cable Connection Component](https://www.aliexpress.com/w/wholesale-type-c-usb-breakout-board.html) | — | 1 | $0.00 | $0.00 | [AliExpress](https://www.aliexpress.com/w/wholesale-type-c-usb-breakout-board.html) |
 | [3D Printing Filament](https://www.aliexpress.com/w/wholesale-pla-filament-3d.html) | — | 1 | $0.00 | $0.00 | [AliExpress](https://www.aliexpress.com/w/wholesale-pla-filament-3d.html) |
 | **Parts subtotal** | — | — | — | **$20.73** | — |
 | **Tax & shipping** | — | — | — | **$5.00** | — |
