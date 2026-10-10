@@ -2,7 +2,7 @@
 
 ![MacroBoard](https://i0.wp.com/palmacas.com/wp-content/uploads/post6708_4.jpeg?resize=1536%2C1152&ssl=1)
 
-MacroBoard is a 9-key hot-swappable mechanical macropad powered by [Seeed Studio XIAO RP2040](https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html). The keyboard has 9 Kailh hot-swappable sockets compatible with any 3-pin or 5-pin MX switch, giving you the ability to choose the switches that suit you best. The keyboard also includes a rotary encoder with a push button and each key is backlit with an RGB LED.
+Quick 6 Pad is an open sourced and edited 9-key hot-swappable mechanical macropad powered by [Seeed Studio XIAO RP2040](https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html). The keyboard has 9 Kailh hot-swappable sockets compatible with any 3-pin or 5-pin MX switch, giving you the ability to choose the switches that suit you best. The keyboard also includes a rotary encoder with a push button and each key is backlit with an RGB LED.
 
 ## Features
 
@@ -74,6 +74,3 @@ You can find a list of all available keycodes at the [KMK Firmware's](http://kmk
 The CircuitPython firmware, KMK Firmware, and NeoPixel library are managed and maintained by their respective developers.
 
 ---
-More information:  
-[MacroBoard – Design and Assembly](https://palmacas.com/macroboard-design/) [[Spanish]](https://palmacas.com/macroboard-diseno/)  
-[MacroBoard – Configuration](https://palmacas.com/macroboard-configuration/) [[Spanish]](https://palmacas.com/macroboard-configuracion/)
